@@ -2,13 +2,13 @@
 layout: post
 ---
 
-
+<br/>
 
 > Last Update: 05/10/2020
 >
 > Note: 不太常用的注释掉了，不定时更新
 
-
+<br/>
 
 ### CTRL
 
@@ -31,7 +31,7 @@ layout: post
 # 上/下翻之前用过的命令 : ctrl + P/N
 ```
 
-
+<br/>
 
 ### ALT
 
@@ -41,7 +41,9 @@ https://yugasun.com/post/iterm2-shortcut-key.html
 https://cnbin.github.io/blog/2015/06/20/iterm2-kuai-jie-jian-da-quan/
 ```
 
+<br/>
 
+### TODO 分成两篇
 
 ```bash
 # 错误信息
@@ -64,9 +66,3 @@ $ gem update
 $ gem list | grep logger
 > logger (1.4.2, default: 1.3.0)
 ```
-
-
-
-> // TODO
->
-> // 分成两篇

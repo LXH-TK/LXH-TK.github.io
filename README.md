@@ -4,16 +4,13 @@
 
 > 初衷是阅读列表的公有化
 
-
-
-
+<br/>
 
 :link: 个人网站 [LXH-TK.net](http://LXH-TK.net)
 
 :beer: 记录技术相关的文章 [LXH-TK.github.io](https://LXH-TK.github.io)
 
-
-
-
+<br/>
 
 > 未来会考虑合并以及定制化
+
