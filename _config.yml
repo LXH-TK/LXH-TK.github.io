@@ -1,5 +1,12 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+# 头部变量
+title: LXH-TK
+description: LXH-TK's Tech Blog
+
+github:
+  repository_url: https://github.com/LXH-TK/LXH-TK.github.io
+
+# 显示个人外链
+personal_link: true
+
+# 使用谷歌流量分析模块
 google_analytics:
-theme: jekyll-theme-hacker
